@@ -1,0 +1,14 @@
+C:\Users\LGARCIARSN\Desktop\CLOUD\WebAPIStarter2\bin\Debug\netcoreapp2.2\WebAPIStarter2.deps.json
+C:\Users\LGARCIARSN\Desktop\CLOUD\WebAPIStarter2\bin\Debug\netcoreapp2.2\WebAPIStarter2.runtimeconfig.json
+C:\Users\LGARCIARSN\Desktop\CLOUD\WebAPIStarter2\bin\Debug\netcoreapp2.2\WebAPIStarter2.runtimeconfig.dev.json
+C:\Users\LGARCIARSN\Desktop\CLOUD\WebAPIStarter2\bin\Debug\netcoreapp2.2\WebAPIStarter2.dll
+C:\Users\LGARCIARSN\Desktop\CLOUD\WebAPIStarter2\bin\Debug\netcoreapp2.2\WebAPIStarter2.pdb
+C:\Users\LGARCIARSN\Desktop\CLOUD\WebAPIStarter2\obj\Debug\netcoreapp2.2\WebAPIStarter2.csprojAssemblyReference.cache
+C:\Users\LGARCIARSN\Desktop\CLOUD\WebAPIStarter2\obj\Debug\netcoreapp2.2\WebAPIStarter2.csproj.CoreCompileInputs.cache
+C:\Users\LGARCIARSN\Desktop\CLOUD\WebAPIStarter2\obj\Debug\netcoreapp2.2\WebAPIStarter2.RazorAssemblyInfo.cache
+C:\Users\LGARCIARSN\Desktop\CLOUD\WebAPIStarter2\obj\Debug\netcoreapp2.2\WebAPIStarter2.RazorAssemblyInfo.cs
+C:\Users\LGARCIARSN\Desktop\CLOUD\WebAPIStarter2\obj\Debug\netcoreapp2.2\WebAPIStarter2.AssemblyInfoInputs.cache
+C:\Users\LGARCIARSN\Desktop\CLOUD\WebAPIStarter2\obj\Debug\netcoreapp2.2\WebAPIStarter2.AssemblyInfo.cs
+C:\Users\LGARCIARSN\Desktop\CLOUD\WebAPIStarter2\obj\Debug\netcoreapp2.2\WebAPIStarter2.RazorTargetAssemblyInfo.cache
+C:\Users\LGARCIARSN\Desktop\CLOUD\WebAPIStarter2\obj\Debug\netcoreapp2.2\WebAPIStarter2.dll
+C:\Users\LGARCIARSN\Desktop\CLOUD\WebAPIStarter2\obj\Debug\netcoreapp2.2\WebAPIStarter2.pdb
